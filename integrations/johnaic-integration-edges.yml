@@ -1,0 +1,16 @@
+generated: '2026-10-24'
+method: none
+source:
+- https://zapier.com/apps/johnaic/integrations
+- https://n8n.io/integrations/johnaic/
+- https://composio.dev/toolkits/johnaic
+- https://monid.ai/tools/johnaic
+checked:
+- https://composio.dev/toolkits/johnaic
+- https://monid.ai/tools/johnaic
+- https://n8n.io/integrations/johnaic/
+- https://zapier.com/apps/johnaic/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
